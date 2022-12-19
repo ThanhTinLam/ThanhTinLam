@@ -19,7 +19,7 @@ I'm **Thanh** **Tin**, an student at Lonestar College.
   <tr>
     <td align="center">
       <a href="https://www.coursera.org/account/accomplishments/verify/87KGHH6JRWNE">
-        <img src="https://user-images.githubusercontent.com/110953007/208479231-535f81fc-7ec4-4b07-ae0c-3f0900e84772.png" width="100px;" alt="wizardforcel"/>
+        <img src="https://user-images.githubusercontent.com/110953007/208479231-535f81fc-7ec4-4b07-ae0c-3f0900e84772.png" width="300px;" alt="wizardforcel"/>
       </a>
       <br />
       <a href="https://www.coursera.org/account/accomplishments/verify/87KGHH6JRWNE">CSS3</a>
@@ -51,7 +51,7 @@ I'm **Thanh** **Tin**, an student at Lonestar College.
         <img src="https://user-images.githubusercontent.com/110953007/208484413-893b9759-ec9e-44a3-be2f-0584e34cf52b.png" width="300px;" alt="mashirozx"/>
       </a>
       <br />
-      <a href="https://www.coursera.org/account/accomplishments/verify/GW9V2GCAQH2V">Progamming</a>
+      <a href="https://www.coursera.org/account/accomplishments/verify/GW9V2GCAQH2V">Progamming Foundation</a>
     </td>
     <td align="center">
       <a href="https://github.com/hua1995116">
