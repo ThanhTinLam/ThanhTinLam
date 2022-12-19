@@ -1,7 +1,7 @@
 ## Hey, Thanh Tin here! :wave:
 
 
-I'm **Thanh** **Tin**, an student at Lonestar College.
+I'm **Thanh** **Tin**, a student at Lonestar College.
 
 -   :hammer_and_pick: HTML / CSS / Java / Javacript
 -   :pencil2: Backend developer
