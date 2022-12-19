@@ -58,7 +58,7 @@ I'm **Thanh** **Tin**, an student at Lonestar College.
         <img src="https://avatars2.githubusercontent.com/u/12070073" width="100px;" alt="hua1995116"/>
       </a>
       <br />
-      <a href="https://github.com/hua1995116">蓝色的秋风</a>
+      <a href="https://github.com/hua1995116">Data</a>
     </td>
     
   </tr>
