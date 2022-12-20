@@ -1,6 +1,7 @@
 ## Hey, Thanh Tin here! :wave:
-[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ThanhTinLam&theme=dark&show_icons=true">](https://metrics.lecoq.io/ThanhTinLam#gh-dark-mode-only))
-[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ThanhTinLam&show_icons=true">](https://metrics.lecoq.io/ThanhTinLam#gh-light-mode-only))
+
+[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ThanhTinLam&theme=dark&show_icons=true">](https://metrics.lecoq.io/ThanhTinLam#gh-dark-mode-only)
+[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ThanhTinLam&show_icons=true">](https://metrics.lecoq.io/ThanhTinLam#gh-light-mode-only)
 
 I'm **Thanh** **Tin**, a student at Lonestar College.
 
@@ -12,7 +13,7 @@ I'm **Thanh** **Tin**, a student at Lonestar College.
 
 ---
 
-#### :sparkles: [My course]
+#### :sparkles: [My courses]
 
 <!--START_SECTION:top-followers-->
 <table>
