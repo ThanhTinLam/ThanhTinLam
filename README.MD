@@ -3,7 +3,7 @@
 [<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ThanhTinLam&theme=dark&show_icons=true">](https://metrics.lecoq.io/ThanhTinLam#gh-dark-mode-only)
 [<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ThanhTinLam&show_icons=true">](https://metrics.lecoq.io/ThanhTinLam#gh-light-mode-only)
 
-I'm **Thanh** **Tin**, a student at Lonestar College.
+I'm **Thanh** **Tin**, a student at Texas A&M College Station.
 
 -   :hammer_and_pick: HTML / CSS / Java / Javacript
 -   :pencil2: Backend developer
