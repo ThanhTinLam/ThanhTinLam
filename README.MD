@@ -5,7 +5,7 @@
 
 I'm **Thanh** **Tin**, a student at Texas A&M College Station.
 
--   :hammer_and_pick: HTML / CSS / C++/ Java / Javacript
+-   :hammer_and_pick: HTML / CSS / C++/ Java / Javacript / R Studio
 -   :pencil2: Backend developer
 -   :seedling: Taking courses at Lonestar College & Coursera
 -   :man: Pronouns: he/him
